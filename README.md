@@ -1,0 +1,1 @@
+The icmpC2_PoC is a C# application that can be compiled with mono after changing the IP Address that you are communicating with.  Then modify the python script to listen on the IP and disable the auto-reply on ICMP replys.
